@@ -1,4 +1,4 @@
 # project-demo
 This is my demo repository
 <br>
-Author - Rohit Kumar.
+Author - Rohit Kumar
